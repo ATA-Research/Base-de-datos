@@ -1,5 +1,7 @@
 # Base-de-datos
-## Motores:
+Las unidades de las bases de datos se presentan a continuación: 
+
+## Motores/Turbinas
 * tipo (4 tiempos / 2 tiempos)
 * potencia [W]
 * cilindrada [cc]
@@ -12,6 +14,6 @@
 * corriente [A]
 * resistencia [Ohm]
 
-## Baterías:
+## Baterías
 * capacidad [mAh]
 * peso [g]
